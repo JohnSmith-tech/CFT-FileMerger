@@ -17,7 +17,7 @@ public class FileSplitter {
     List<File> files;
 
 
-    private final int MAX_ROWS = 5;
+    private final int MAX_ROWS = 5000;
 
     private int newFilename = 0;
 
