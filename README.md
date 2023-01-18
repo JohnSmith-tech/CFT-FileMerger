@@ -8,8 +8,8 @@
 входных файлов, отсортированным по возрастанию или убыванию путем сортировки слиянием. 
 
 ### Примеры запуска из командной строки
-java Main -s out.txt in1.txt in2.txt in3.txt
-java Main -s -d out.txt in1.txt in2.txt\n
+1) java Main -s out.txt in1.txt in2.txt in3.txt               
+1) java Main -s -d out.txt in1.txt in2.txt\n
 
 Java 18;
 Maven 4.0.0
